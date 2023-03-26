@@ -96,4 +96,8 @@ footer {
   #true {
     font-size: 33px;
   }
+  html,body{
+    width:100%;
+    overflow-x:hidden;
+  }
 }
